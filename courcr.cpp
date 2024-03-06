@@ -1,5 +1,10 @@
 #include <iostream>
 
+bool fuc()
+{
+  return 1;
+}
+
 using namespace std;
 
 void main()
